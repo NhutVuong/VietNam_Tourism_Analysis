@@ -5,3 +5,4 @@ This project aims to visualize the transformation of Vietnam's tourism sector **
 
 ## 🎯 Objectives
 - Visualize Vietnam’s tourism status **before, during, and after the Covid-19 pandemic** by economic regions.
+- Analyze changes in the number of **domestic and international tourists** across time.
