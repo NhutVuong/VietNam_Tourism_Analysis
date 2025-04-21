@@ -15,4 +15,5 @@ This project aims to visualize the transformation of Vietnam's tourism sector **
 - **Tool Used**: Data was processed and cleaned in Excel before being imported into **Tableau** for dashboard creation.
 
 ## 📊 Dashboard Preview
-![Pizza Sales Dashboard](https://github.com/NhutVuong/VietNam_Tourism_Analysis/blob/main/Overview.png)
+![Viet Nam Tourism Dashboard](https://github.com/NhutVuong/VietNam_Tourism_Analysis/blob/main/Overview.png)
+![Viet Nam Tourism Dashboard](https://github.com/NhutVuong/VietNam_Tourism_Analysis/blob/main/Overview_3.png)
