@@ -30,6 +30,7 @@ This project aims to visualize the transformation of Vietnam's tourism sector **
 - 📊 Domestic tourism showed signs of recovery from 2021 onwards.
 - 💰 Tourism revenue distribution differs across economic regions.
 - 🌏 Certain regions like the Southeast and Red River Delta saw faster recovery.
-  
-### 🔵 Tableau  
-[🔗 View Tableau Dashboard](https://public.tableau.com/app/profile/vuong.hoang2738/viz/Assignment_2_17446021858820/TngQuan?publish=yes) 
+
+## 🔗 Dashboard Access
+- 🔍 View full dashboard on Tableau Public: **[https://public.tableau.com/app/profile/vuong.hoang2738/viz/Assignment_2_17446021858820/TngQuan?publish=yes]**
+
