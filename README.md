@@ -14,3 +14,4 @@ This project aims to visualize the transformation of Vietnam's tourism sector **
 - **Cleaning**: Standardized region names, fixed date formats, and handled missing/null values.
 - **Tool Used**: Data was processed and cleaned in Excel before being imported into **Tableau** for dashboard creation.
 
+## 📊 Dashboard Preview
