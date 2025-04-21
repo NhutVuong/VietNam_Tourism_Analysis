@@ -8,3 +8,6 @@ This project aims to visualize the transformation of Vietnam's tourism sector **
 - Analyze changes in the number of **domestic and international tourists** across time.
 -  Highlight variations in **tourism amount & revenue** from 2019 to 2022.
 -  Identify regions with fast recovery and suggest potential development opportunities.
+
+## 📂 Data Source & Processing
+- **Source**: Official Excel datasets collected from the **General Statistics Office of Vietnam (GSO)**.
