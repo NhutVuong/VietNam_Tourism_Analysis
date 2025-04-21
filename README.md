@@ -32,5 +32,5 @@ This project aims to visualize the transformation of Vietnam's tourism sector **
 - 🌏 Certain regions like the Southeast and Red River Delta saw faster recovery.
 
 ## 🔗 Dashboard Access
-- 🔍 View full dashboard on Tableau Public: **[https://public.tableau.com/app/profile/vuong.hoang2738/viz/Assignment_2_17446021858820/TngQuan?publish=yes]**
+- 🔍 View full dashboard on Tableau Public: [🔗 View Tableau Dashboard](https://public.tableau.com/app/profile/vuong.hoang2738/viz/Assignment_2_17446021858820/TngQuan?publish=yes)  
 
