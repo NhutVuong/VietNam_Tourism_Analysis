@@ -17,3 +17,5 @@ This project aims to visualize the transformation of Vietnam's tourism sector **
 ## 📊 Dashboard Preview
 ![Viet Nam Tourism Dashboard](https://github.com/NhutVuong/VietNam_Tourism_Analysis/blob/main/Overview.png)
 ![Viet Nam Tourism Dashboard](https://github.com/NhutVuong/VietNam_Tourism_Analysis/blob/main/Overview_3.png)
+![Viet Nam Tourism Dashboard](https://github.com/NhutVuong/VietNam_Tourism_Analysis/blob/main/Overview_2.png)
+![Viet Nam Tourism Dashboard](https://github.com/NhutVuong/VietNam_Tourism_Analysis/blob/main/Overview_3.png)
