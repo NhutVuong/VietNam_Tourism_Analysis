@@ -11,3 +11,4 @@ This project aims to visualize the transformation of Vietnam's tourism sector **
 
 ## 📂 Data Source & Processing
 - **Source**: Official Excel datasets collected from the **General Statistics Office of Vietnam (GSO)**.
+- **Cleaning**: Standardized region names, fixed date formats, and handled missing/null values.
