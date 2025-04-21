@@ -20,6 +20,16 @@ This project aims to visualize the transformation of Vietnam's tourism sector **
 ![Viet Nam Tourism Dashboard](https://github.com/NhutVuong/VietNam_Tourism_Analysis/blob/main/Overview_2.png)
 ![Viet Nam Tourism Dashboard](https://github.com/NhutVuong/VietNam_Tourism_Analysis/blob/main/Overview_4.png)
 
-*Explore more visuals in the full dashboard section below.*
+## 🚀 Tools & Technologies
+- **Excel**: Data cleaning and preprocessing.
+- **Tableau**: Data visualization and interactive dashboard creation.
+- **GitHub**: Project hosting and version control.
+
+## 📈 Key Visual Insights
+- 📉 Sharp decline in international arrivals during 2020.
+- 📊 Domestic tourism showed signs of recovery from 2021 onwards.
+- 💰 Tourism revenue distribution differs across economic regions.
+- 🌏 Certain regions like the Southeast and Red River Delta saw faster recovery.
+  
 ### 🔵 Tableau  
 [🔗 View Tableau Dashboard](https://public.tableau.com/app/profile/vuong.hoang2738/viz/Assignment_2_17446021858820/TngQuan?publish=yes) 
